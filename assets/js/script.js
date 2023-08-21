@@ -1,6 +1,6 @@
 /**
- * @copyright codewithsadee 2023
- * @author Sadee <codewithsadee24@gmail.com>
+ * @copyright A.H. Abir 2023
+ * @author Ashfaque Hossain Abir <ashfaquehossainXT@param.me>
  */
 
 "use strict";
