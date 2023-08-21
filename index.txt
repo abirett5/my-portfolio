@@ -1,6 +1,4 @@
-This is a personal portfolio made by codewithsadee
-
-https://prod.liveshare.vsengsaas.visualstudio.com/join?0D57B5302506A6B1FDEE09DD05B6322C0EFE
+This is a personal portfolio made by A.H. Abir
 
 
 
@@ -16,19 +14,19 @@ alt = logo
 
 #---------- HERO ----------#
 
-alt = Ahmed Khalid
+alt = A.H. Abir
 
 Software Engineer
 
-Ahmed Khalid
+A.H. Abir
 
 Lorem ipsum dolor sit amet consectetur. Quam ut feugiat ut porta morbi lobortis tristique.
 
 <span class="material-symbols-outlined" aria-hidden="true"> mail </span>
-khalid@techgulf.com
+ashfaquehossainXT@pm.me
 
 <span class="material-symbols-outlined" aria-hidden="true"> call </span>
-+213908539206
++8801788 420386
 
 
 
@@ -139,14 +137,12 @@ Contact Info
 <span class="material-symbols-outlined" aria-hidden="true"> mail </span>
 
 Mail Us
-khalid@techgulf.com
-khalid@service.com
+ashfaquehossainXT@pm.me
 
 <span class="material-symbols-outlined" aria-hidden="true"> call </span>
 
 Contact Us
-+2382395632498
-+2323982609238
++8801788 420386
 
 <span class="material-symbols-outlined" aria-hidden="true"> location_on </span>
 
@@ -169,4 +165,4 @@ Send Message
 
 #---------- FOOTER ----------#
 
-Copyright 2023. All right reserved by codewithsadee
+Copyright 2023. All right reserved by A.H. Abir
