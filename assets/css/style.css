@@ -119,8 +119,8 @@
   --outline-variant: var(--outline-variant-light);
 }
 
-[data-theme="Dark"] {
-  color-scheme: Dark;
+[data-theme="dark"] {
+  color-scheme: dark;
 
   --background: var(--background-dark);
   --on-background: var(--on-background-dark);
