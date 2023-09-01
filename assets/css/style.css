@@ -429,7 +429,9 @@ body {
 
 .theme-btn {
   color: var(--on-surface-variant);
-  border-radius: var(--radius-full);
+  --state-layer-bg: var(--on-surface-variant);
+  border-radius: var(--shape-corner-full);
+  overflow: hidden;
 }
 
 
