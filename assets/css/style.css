@@ -434,6 +434,11 @@ body {
   overflow: hidden;
 }
 
+[data-theme="dark"] .theme-btn .dark,
+[data-theme="light"] .theme-btn .light {
+  display: none;
+}
+
 
 
 
