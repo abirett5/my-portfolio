@@ -11,7 +11,7 @@
 
 const $themeBtn = document.querySelector("[data-theme-btn]"); // {NodeElement}
 const $HTML = document.documentElement; // {NodeElement}
-let isDark = window.matchMedia("[prefers-color-scheme]").matches; // {Boolean | String}
+let isDark = window.matchMedia("(prefers-color-scheme: dark)").matches; // {Boolean | String}
 
 if(sessionStorage.getItem("theme")) {
     $HTML.dataset.theme = sessionStorage.getItem("theme");
