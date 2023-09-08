@@ -421,7 +421,7 @@ body {
   --state-layer-bg: var(--on-surface-variant);
  }
 
- .tab-btn .active {
+ .tab-btn.active {
   color: var(--primary);
   --state-layer-bg: var(--primary);
  }
@@ -444,7 +444,7 @@ body {
   opacity: 0;
  }
 
- .tab-btn .active .tab-text::after {
+ .tab-btn.active.tab-text::after {
   opacity: 1;
  }
 
